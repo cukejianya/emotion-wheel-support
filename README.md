@@ -19,6 +19,5 @@ A: If you encounter any issues or have questions, please don't hesitate to conta
 For any further questions, feedback, or issues not covered in our FAQs and guides, please reach out to us:
 
 - Email: [cukejianya+emotionwheelsupport@gmail.com](mailto:cukejianya+emotionwheelsupport@gmail.com)
-- Live Chat: Click the chat bubble in the app.
 
 We're here to assist you with any inquiries or concerns you may have.
