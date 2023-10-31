@@ -11,7 +11,7 @@ A: Emotion Wheel is a cutting-edge iOS app designed to help you better understan
 A: You can download Emotion Wheel from the Apple App Store [here](App Store Link).
 
 ### Q: I'm experiencing an issue with the app. What should I do?
-A: If you encounter any issues or have questions, please don't hesitate to contact our support team. You can reach us via email at [support@emotionwheelapp.com](mailto:support@emotionwheelapp.com).
+A: If you encounter any issues or have questions, please don't hesitate to contact our support team. You can reach us via email at [cukejianya+emotionwheelsupport@gmail.com](mailto:cukejianya+emotionwheelsupport@gmail.com).
 
 
 ## Contact Us
